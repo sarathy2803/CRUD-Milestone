@@ -1,0 +1,38 @@
+.linkone,.linktwo,.linkthree,.linkfour,.linkfive,.linksix{
+    text-decoration: none;
+}
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+input:hover{
+    border-color: red;
+}
+input{
+    text-align: center;
+}
+Link:hover{
+    color: rgb(240, 161, 14);
+}
+img{
+    height:400px;
+    width: 400px;
+}
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.bgColor{
+    background-color: rgba(0, 0, 0, 0.993);
+}
+.card{
+    box-shadow: 3px 3px 3px 3px rgb(100, 100, 100);
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.button{
+    float: right;
+    position: absolute;
+    top: 420px;
+    left: 1100px;
+}
